@@ -1,16 +1,36 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=rounded&reversal=false&color=gradient&customColorList=15&height=120&section=footer&text=BIBI'S_CODE_VIEWER&animation=twinkling&&fontSize=40)
 
-<!--
-**Jangyubi/Jangyubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###  **BIBI'S CODE VIEWER**
+현재 대학교 1학년 재학 중
+
+다양한 프로그래밍 언어를 배우는 단계
+
+
+
+
+#### **KEEP TRYING**
+C / Python programming
+	
+MySQL DB 
+
+
+
+
+#### **SLOW PACED SCHEDULE**
+JAVA STUDY 
+	
+WEB basic (JAVA SCRIPT / CSS / HTML) 
+
+	
+	
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangyubi&layout=compact)](https://github.com/Jangyubi/github-readme-stats)
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangyubi&show_icons=true&theme=buefy)
+  
+ </div>
