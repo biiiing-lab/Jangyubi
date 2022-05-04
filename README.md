@@ -24,7 +24,7 @@ MySQL DB
 #### 📖 **SLOW PACED SCHEDULE**
 JAVA STUDY 
 	
-WEB basic (JAVA SCRIPT / CSS / HTML) 
+WEB basic (HTML) 
 
 	
 	
