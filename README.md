@@ -14,7 +14,7 @@
 
 
 #### **KEEP TRYING**
-C / Python programming
+C / PYTHON programming
 	
 MySQL DB 
 
