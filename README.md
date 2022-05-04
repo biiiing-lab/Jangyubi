@@ -13,7 +13,7 @@
 
 
 
-#### **KEEP TRYING**
+#### 🖱️ **KEEP TRYING**
 C / PYTHON programming
 	
 MySQL DB 
@@ -21,7 +21,7 @@ MySQL DB
 
 
 
-#### **SLOW PACED SCHEDULE**
+#### 📖 **SLOW PACED SCHEDULE**
 JAVA STUDY 
 	
 WEB basic (JAVA SCRIPT / CSS / HTML) 
